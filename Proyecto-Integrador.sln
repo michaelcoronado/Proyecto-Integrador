@@ -5,6 +5,8 @@ Project("{D957775E-93A3-8A98-6094-731D85645B43}") = "Proyecto-Integrador", "Asse
 EndProject
 Project("{D957775E-93A3-8A98-6094-731D85645B43}") = "Proyecto-Integrador", "Assembly-CSharp-Editor.csproj", "{144137A6-A49D-4651-6DE5-3837A6BFC937}"
 EndProject
+Project("{D957775E-93A3-8A98-6094-731D85645B43}") = "Proyecto-Integrador", "Assembly-UnityScript-Editor-firstpass.unityproj", "{A5E00554-2E9A-E517-AC9F-E9549006F0ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{144137A6-A49D-4651-6DE5-3837A6BFC937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144137A6-A49D-4651-6DE5-3837A6BFC937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144137A6-A49D-4651-6DE5-3837A6BFC937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E00554-2E9A-E517-AC9F-E9549006F0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E00554-2E9A-E517-AC9F-E9549006F0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E00554-2E9A-E517-AC9F-E9549006F0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E00554-2E9A-E517-AC9F-E9549006F0ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
+												GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
