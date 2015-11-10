@@ -49,6 +49,8 @@
      <Compile Include="Assets\Grupo 2\Beta58\SceneChange.cs" />
      <Compile Include="Assets\Grupo 2\SM57\PinchZoom.cs" />
      <Compile Include="Assets\Grupo 2\SM57\SceneChange.cs" />
+     <Compile Include="Assets\Grupo 3\M88\PinchZoom.cs" />
+     <Compile Include="Assets\Grupo 3\M88\SceneChange.cs" />
      <Compile Include="Assets\Grupo 8\AT4033\PinchZoom.cs" />
      <Compile Include="Assets\Grupo 8\AT4033\SceneChange.cs" />
      <Compile Include="Assets\Grupo 8\Shure87A\PinchZoom.cs" />
@@ -114,7 +116,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Qualcomm.Vuforia.UnityExtensions">
- <HintPath>C:/Users/Johan/Documents/Proyecto-Integrador/Assets/Qualcomm Augmented Reality/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
+ <HintPath>C:/Users/Esteban/Documents/Proyecto-Integrador/Assets/Qualcomm Augmented Reality/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
