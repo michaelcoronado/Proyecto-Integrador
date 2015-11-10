@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Grupo 2\SceneChange.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Grupo 8\AT4033\PinchZoom.cs">
     <Files>
-      <File FileName="Temp\Compiled-Standard.shader" Line="1" Column="1" />
-      <File FileName="Assets\Grupo 2\SceneChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Grupo 8\AT4033\SceneChange.cs" Line="14" Column="1" />
+      <File FileName="Assets\Grupo 8\AT4033\PinchZoom.cs" Line="49" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
